@@ -1,6 +1,9 @@
 # Recoilチュートリアル
 - TypeScriptを使ってRecoilのチュートリアルを実装する。
 
+<img width="295" alt="スクリーンショット 2023-06-17 17 25 49" src="https://github.com/reiji11011/recoil-tutorial/assets/22842524/7c713c1d-bcf1-4c90-bdf2-3977d7dbc9da">
+
+
 ## 参考
 https://recoiljs.org/docs/introduction/getting-started/  
 https://qiita.com/FumioNonaka/items/b254db610d6e8cc17026  
